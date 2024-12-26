@@ -129,5 +129,4 @@ git push origin feature-name
 5. Create a pull request.
 
 ---
-🚨## Disclaimer
-**Disclaimer**: This project is for educational and awareness purposes only. Unauthorized use of the information provided here for malicious intent is strictly prohibited.
+🚨**Disclaimer**: This project is for educational and awareness purposes only. Unauthorized use of the information provided here for malicious intent is strictly prohibited.
